@@ -1,6 +1,7 @@
 # 💫 About Me: 
 👋 Hi, I’m @Darshan Suresh<br>👀 I’m interested in Data Science and also about Analysing problems and giving solutions,<br>🌱 I’m currently learning Data Science,<br>💞️ I’m looking to collaborate on Research about Data Science,<br>📫 How to reach me darshansuresh1804@gmail.com/ +91 9591803813,
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshansuresh1804/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@darshansuresh1804) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/darshansuresh1804/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21195972/darshan-suresh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/im__darsh) 
 
