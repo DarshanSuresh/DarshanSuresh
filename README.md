@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 Hi, I’m @Darshan Suresh<br>👀 I’m interested in Cybersecurity and exploring ways to protect systems, analyze threats, and provide solutions.<br>🌱 I’m currently learning Cybersecurity,<br>💞️ I’m looking to collaborate on research or projects related to Cybersecurity.,<br>📫 How to reach me darshansuresh1804@gmail.com/ +91 9591803813, 
+👋 Hi, I’m @Darshan Suresh<br>👀 I’m interested in Cybersecurity and exploring ways to protect systems, analyze threats, and provide solutions.<br>🌱 I’m currently learning Cybersecurity,<br>💞️ I’m looking to collaborate on research or projects related to Cybersecurity.,<br>📫 How to reach me darshansuresh1804@gmail.com/ +91 9591803813,  
 
 
 ## 🌐 Socials:
