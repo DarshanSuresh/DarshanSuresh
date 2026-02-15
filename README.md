@@ -1,7 +1,6 @@
 # 💫 About Me: 
 👋 Hi, I’m @Darshan Suresh<br>👀 I’m interested in Cybersecurity and exploring ways to protect systems, analyze threats, and provide solutions.<br>🌱 I’m currently learning Cybersecurity,<br>💞️ I’m looking to collaborate on research or projects related to Cybersecurity.,<br>📫 How to reach me darshansuresh1804@gmail.com/ +91 9591803813,  
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/darshansuresh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshansuresh/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@darshansuresh1804) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/darshansuresh1804/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21195972/darshan-suresh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https:/twitter.com/im__darsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshansuresh1804@gmail.com) 
 
