@@ -1,11 +1,250 @@
-# 💫 About Me: 
-👋 Hi, I’m @Darshan Suresh<br>👀 I’m interested in Cybersecurity and exploring ways to protect systems, analyze threats, and provide solutions.<br>🌱 I’m currently learning Cybersecurity,<br>💞️ I’m looking to collaborate on research or projects related to Cybersecurity.,<br>📫 How to reach me darshansuresh1804@gmail.com/ +91 9591803813,  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Darshan Suresh
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/darshansuresh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshansuresh/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@darshansuresh1804) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/darshansuresh1804/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21195972/darshan-suresh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https:/twitter.com/im__darsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshansuresh1804@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Cybersecurity Engineer • Cloud Security Enthusiast • Security Researcher
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=MCA+Cybersecurity+Student;Cloud+Security+%7C+SOC+%7C+Digital+Forensics;Threat+Detection+%7C+Blue+Team+%7C+Purple+Team;Building+Security+Tools+with+Python+%26+Flutter" alt="Typing SVG" />
+
+</div>
+
+---
+
+# 🛡️ About Me
+
+```yaml
+Name: Darshan Suresh
+Role: Cybersecurity Student & Security Engineer
+Education: MCA Cybersecurity
+University: Amrita Vishwa Vidyapeetham
+Focus Areas:
+  - Cloud Security
+  - Security Operations Center (SOC)
+  - Digital Forensics
+  - Threat Detection
+  - Network Security
+  - Vulnerability Assessment & Penetration Testing
+
+Currently Building:
+  - PurpleShield SOC
+  - NetGuard
+  - Cloud Security Projects
+
+Learning:
+  - Microsoft Security Stack
+  - AWS Security
+  - Splunk
+  - Microsoft Sentinel
+  - DFIR
+  - Threat Hunting
+```
+
+I enjoy building practical cybersecurity solutions that help detect, analyze, and respond to modern cyber threats.
+
+My primary interests include:
+
+- 🔵 Blue Team Operations
+- 🟣 Purple Team Engineering
+- ☁️ Cloud Security
+- 🔍 Digital Forensics & Incident Response
+- 📊 SIEM & Threat Detection
+- 🛡️ Secure Application Development
+- 🧠 AI for Cybersecurity
+
+> "Security is built through continuous learning, practical experience, and responsible innovation."
+
+---
+
+# 🏆 Cybersecurity Journey
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🎓 MCA Cybersecurity | Amrita Vishwa Vidyapeetham |
+| 🛡️ TryHackMe | Active Learner |
+| 🔬 Research | Cybersecurity & Machine Learning |
+| ☁️ Cloud | AWS Security Learning |
+| 💻 Development | Python, Flutter, FastAPI |
+| 📚 Focus | Cloud Security & SOC |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🟣 PurpleShield SOC
+
+> A modern Purple Team Security Operations Center built for threat detection, monitoring, MITRE ATT&CK mapping, and security analytics.
+
+### Features
+
+- Real-Time Dashboard
+- MITRE ATT&CK Mapping
+- Threat Hunting
+- Incident Management
+- Detection Engineering
+- Security Analytics
+- Purple Team Exercises
+
+---
+
+## 🛡️ NetGuard
+
+Windows desktop utility developed using Flutter.
+
+### Features
+
+- Active TCP/UDP Monitoring
+- Process Mapping
+- Kill Suspicious Processes
+- Port Monitoring
+- Developer Friendly Interface
+
+---
+
+## ☁️ Cloud Security Projects
+
+Hands-on cloud security implementations including:
+
+- IAM Best Practices
+- AWS Security
+- Secure VPC Design
+- EC2 Hardening
+- S3 Security
+- Cloud Logging
+- Monitoring & Alerts
+
+---
+
+## 🧠 AI + Cybersecurity
+
+Research combining Machine Learning with Cybersecurity including:
+
+- Phishing Detection
+- Threat Classification
+- Malware Analysis
+- Security Automation
+- Anomaly Detection
+
+---
+
+## 🔬 Digital Forensics
+
+Projects involving:
+
+- Memory Analysis
+- Windows Forensics
+- Volatility Framework
+- Network Investigations
+- Malware Analysis Basics
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+## ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+## 🔐 Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite)
+![Metasploit](https://img.shields.io/badge/Metasploit-0066CC?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshanSuresh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanSuresh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=DarshanSuresh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Learning Path
+
+- ☁️ AWS Security
+- 🛡️ Microsoft Sentinel
+- 📊 Splunk SIEM
+- 🔍 Threat Hunting
+- 🧠 DFIR
+- 🐧 Linux Hardening
+- 🛡️ Active Directory Security
+- ☁️ Kubernetes Security
+- 🔐 Zero Trust Architecture
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/darshansuresh1804">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:darshansuresh1804@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DarshanSuresh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+```text
+Cybersecurity isn't just about finding vulnerabilities.
+
+It's about understanding systems,
+building resilient defenses,
+learning continuously,
+and protecting what matters most.
+```
+
+---
+
+<div align="center">
+
+### 🔒 Learn • Build • Secure • Repeat
+
+<img src="https://komarev.com/ghpvc/?username=DarshanSuresh&label=Profile+Views&color=00C853&style=flat-square"/>
+
+</div>
