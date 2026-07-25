@@ -43,36 +43,36 @@ I enjoy building practical cybersecurity solutions that help detect, analyze, an
 
 My primary interests include:
 
-- 🔵 Blue Team Operations
-- 🟣 Purple Team Engineering
-- ☁️ Cloud Security
-- 🔍 Digital Forensics & Incident Response
-- 📊 SIEM & Threat Detection
-- 🛡️ Secure Application Development
-- 🧠 AI for Cybersecurity
+- Blue Team Operations
+- Purple Team Engineering
+- Cloud Security
+- Digital Forensics & Incident Response
+- SIEM & Threat Detection
+- Secure Application Development
+- AI for Cybersecurity
 
 > "Security is built through continuous learning, practical experience, and responsible innovation."
 
 ---
 
-# 🏆 Cybersecurity Journey
+# Cybersecurity Journey
 
 <div align="center">
 
 | Achievement | Details |
 |-------------|---------|
-| 🎓 MCA Cybersecurity | Amrita Vishwa Vidyapeetham |
-| 🛡️ TryHackMe | Active Learner |
-| 🔬 Research | Cybersecurity & Machine Learning |
-| ☁️ Cloud | AWS Security Learning |
-| 💻 Development | Python, Flutter, FastAPI |
-| 📚 Focus | Cloud Security & SOC |
+| MCA Cybersecurity | Amrita Vishwa Vidyapeetham |
+| TryHackMe | Active Learner |
+| Research | Cybersecurity & Machine Learning |
+| Cloud | AWS Security Learning |
+| Development | Python, Flutter, FastAPI |
+| Focus | Cloud Security & SOC |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🟣 PurpleShield SOC
 
@@ -130,7 +130,7 @@ Research combining Machine Learning with Cybersecurity including:
 
 ---
 
-## 🔬 Digital Forensics
+## Digital Forensics
 
 Projects involving:
 
@@ -142,7 +142,7 @@ Projects involving:
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -154,13 +154,13 @@ Projects involving:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## ☁️ Cloud
+## Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
-## 🔐 Cybersecurity
+## Cybersecurity
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -170,7 +170,7 @@ Projects involving:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-## 🗄️ Databases
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -180,7 +180,7 @@ Projects involving:
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -194,21 +194,21 @@ Projects involving:
 
 ---
 
-# 🎯 Current Learning Path
+# Current Learning Path
 
-- ☁️ AWS Security
-- 🛡️ Microsoft Sentinel
-- 📊 Splunk SIEM
-- 🔍 Threat Hunting
-- 🧠 DFIR
-- 🐧 Linux Hardening
-- 🛡️ Active Directory Security
-- ☁️ Kubernetes Security
-- 🔐 Zero Trust Architecture
+- AWS Security
+- Microsoft Sentinel
+- Splunk SIEM
+- Threat Hunting
+- DFIR
+- Linux Hardening
+- Active Directory Security
+- Kubernetes Security
+- Zero Trust Architecture
 
 ---
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <div align="center">
 
