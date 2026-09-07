@@ -10,7 +10,7 @@
 
 ---
 
-# 🛡️ About Me
+# About Me
 
 ```yaml
 Name: Darshan Suresh
@@ -228,7 +228,7 @@ Projects involving:
 
 ---
 
-# 💡 Philosophy
+# Philosophy
 
 ```text
 Cybersecurity isn't just about finding vulnerabilities.
