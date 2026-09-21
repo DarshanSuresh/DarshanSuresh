@@ -4,7 +4,7 @@
 
 ### Cybersecurity Engineer • Cloud Security Enthusiast • Security Researcher
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=MCA+Cybersecurity+Student;Cloud+Security+%7C+SOC+%7C+Digital+Forensics;Threat+Detection+%7C+Blue+Team+%7C+Purple+Team;Building+Security+Tools+with+Python+%26+Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=MCA+Cybersecurity+Student;Cloud+Security+%7C+SOC+%7C+Digital+Forensics;Threat+Detection+%7C+Blue+Team+%7C+Purple+Team;Building+Security+Tools+with+Python+%26+Flutter" alt="Typing SVG" />
 
 </div>
 
