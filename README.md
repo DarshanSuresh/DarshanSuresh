@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Darshan Suresh 
 
-<div align="center">
+<div align="center"> 
 
 ### Cybersecurity Engineer • Cloud Security Enthusiast • Security Researcher
 
